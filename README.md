@@ -25,7 +25,7 @@ Each project is presented through a business-first lens:
 5. Business Impact
 6. Lessons Learned
 
-The objective isn't to demonstrate technology alone, but to showcase how engineering, data, and AI put together can be applied to solve real business problems at scale.
+The objective isn't to demonstrate technology in isolation, but to showcase how engineering, data, and AI come together to solve real business problems and enable better decisions at scale.
 
 ---
 
